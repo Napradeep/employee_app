@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "365347623914",
+    "project_id": "fir-877f2",
+    "storage_bucket": "fir-877f2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:365347623914:android:58aff25899425246afd893",
+        "android_client_info": {
+          "package_name": "com.example.employe_task"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "365347623914-gkflvsniludskk6cj8cpbm64d5qp87m4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARK3zh3bdp_ANyTI_F26asOf3s3AIMWxA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "365347623914-gkflvsniludskk6cj8cpbm64d5qp87m4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "365347623914-4psmn9ud2s7k6s7mtgueojbm9oeqgt9g.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.employeTask"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:365347623914:android:9d430b3b0fb46336afd893",
+        "android_client_info": {
+          "package_name": "com.example.firebase_auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "365347623914-gkflvsniludskk6cj8cpbm64d5qp87m4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARK3zh3bdp_ANyTI_F26asOf3s3AIMWxA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "365347623914-gkflvsniludskk6cj8cpbm64d5qp87m4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "365347623914-4psmn9ud2s7k6s7mtgueojbm9oeqgt9g.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.employeTask"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
